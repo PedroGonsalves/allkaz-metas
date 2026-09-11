@@ -1,20 +1,26 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="ALLKAZBanner" src="Content/BannerAllkazGIT.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Allkaz Equipamentos
 
-This contains everything you need to run your app locally.
+Este é um Webapp beta da Allkaz para a marcação de Metas de vendas.
 
-View your app in AI Studio: https://ai.studio/apps/fc0697c3-6a85-4189-b1b6-2a7c1668c47a
+## Rodar Localmente
 
-## Run Locally
-
-**Prerequisites:**  Node.js
+**Pré-requisitos:**  Node.js
 
 
-1. Install dependencies:
+1. Baixar o App e abrir o cmd:
+   `win+R`
+2. Procurar a pasta no cmd: 
+   `cd C:\Users\Usuario\Downloads\allkaz-metas`
+3. Instalar Depedencias no cmd:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+4. Rodar o aplicativo:
    `npm run dev`
+5. Copiar a URL gerada: 
+   `https://000.000.0.000:0000`
+6. Abrir aplicativo no Google:
+   `seja feliz`
+
