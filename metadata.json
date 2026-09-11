@@ -1,0 +1,6 @@
+{
+  "name": "Allkaz Metas",
+  "description": "Painel de metas de vendas para a Allkaz Equipamentos",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
